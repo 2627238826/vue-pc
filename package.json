@@ -89,7 +89,7 @@
     "prettier": "^1.18.2",
     "prettier-stylelint": "^0.4.2",
     "sass-loader": "^7.1.0",
-    "standard-version": "^6.0.1",
+    "standard-version": "^8.0.1",
     "style-loader": "^0.23.1",
     "stylelint": "^10.1.0",
     "stylelint-config-prettier": "^5.2.0",
